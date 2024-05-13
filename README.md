@@ -1,16 +1,48 @@
-### Hi there 👋
+# Ariel Fikru Avi Cenna
 
-<!--
-**arielfikru/arielfikru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Ariel Fikru, the Community Owner at AI Generative Indonesia and a Module Import Engineer based in Surakarta, Jawa Tengah, Indonesia. I am passionate about AI, web development, and art, and I continually strive to learn new things and improve my skills.
 
-Here are some ideas to get you started:
+## Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: [arielfikrua@gmail.com](mailto:arielfikrua@gmail.com)
+- LinkedIn: [Ariel Fikru Avi Cenna](https://www.linkedin.com/in/ariel-fikru-avi-cenna-a442b7271)
+
+## Skills
+
+- AI/ML Development
+- Web Development
+- Web Design
+
+## Experience
+
+- **Artificial Intelligence Researcher**  
+  **Cagliostro Research Lab**  
+  November 2023 - Present, Indonesia
+
+- **Developer**  
+  **CosuLagi.id**  
+  November 2023 - Present, Indonesia
+
+- **Operation Staff & Research**  
+  **Avatara.id**  
+  September 2023 - December 2023, Jakarta, Indonesia
+
+- **Machine Learning Developer**  
+  **Fiverr**  
+  September 2021 - April 2023
+
+- **Motion Graphic Designer**  
+  **Fiverr**  
+  February 2020 - June 2021
+
+## Education
+
+- **SMK Negeri 6 Surakarta**  
+  Non Degree, Multimedia  
+  June 2020 - June 2023
+
+## About Me
+
+I am a self-motivated fast learner with a strong interest in artificial intelligence, technology, and creative arts. I am always eager to take on new challenges and contribute to innovative projects that can make a difference.
+
+Feel free to reach out to me for collaborations or just a chat about technology and arts!
